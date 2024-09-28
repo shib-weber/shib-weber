@@ -19,7 +19,7 @@ I am a dedicated , hardworking developer .<br>I am currently pursuing B. Tech in
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shib-weber&limit=8&theme=neon&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=shib-weber&limit=8&theme=neon)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shib-weber&icon=7&color=0)](https://visitcount.itsvg.in)
