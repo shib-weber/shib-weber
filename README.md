@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a dedicated , hardworking developer .<br>I am currently pursuing B. Tech in Computer Science and Engineering.<br>Follow the Link to see my Portfolio site : shibjyoti-roy-chowdhury.vercel.app  
+I am a dedicated , hardworking developer .<br>I am currently pursuing B. Tech in Computer Science and Engineering.<br>Follow the Link to see my Portfolio site : https://shibjyoti-roy-chowdhury.vercel.app  
 
 
 ## 🌐 Socials:
